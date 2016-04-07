@@ -21,3 +21,5 @@ will run the following (respectively)
 webpack -d --watch
 webpack -p
 ```
+## Next Steps
+get it working with redux
