@@ -8,6 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+  "scripts": {
+    "dev": "webpack -d --watch",
+    "prod" : "webpack -p"
+  },
   "dependencies": {
     "react": "^0.14.8",
     "react-dom": "^0.14.8",
